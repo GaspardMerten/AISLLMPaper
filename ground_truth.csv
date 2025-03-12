@@ -1,0 +1,190 @@
+dataset_size,category,query_id,mmsi,query,actual_result
+10,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+5,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+20,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+50,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+75,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+100,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+150,attribute,0,211190000,What is the annual CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000]?,20114.72
+10,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+5,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+20,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+50,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+75,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+100,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+150,attribute,1,211190000,What is the CO2 emission of ship [MMSI=219028133-219018172-211870240-211190000] per nautical mile ?,252.956612
+5,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+10,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+20,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+50,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+75,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+100,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+150,attribute,2,211190000,What is the name of ship [MMSI=219028133-219018172-211870240-211190000]?,SCHLESWIG-HOLSTEIN
+5,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+10,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+20,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+50,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+75,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+100,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+150,attribute,3,211190000,What is the volume of displaced water of ship [MMSI=219028133-219018172-211870240-211190000],17935.2
+5,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+10,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+20,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+50,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+75,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+100,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+150,attribute,5,211190000,What is the IMO number for ship [MMSI=219028133-219018172-211870240-211190000]?,9151539
+5,attribute,6,0,How many ships are in the dataset?,5
+10,attribute,6,0,How many ships are in the dataset?,10
+20,attribute,6,0,How many ships are in the dataset?,20
+50,attribute,6,0,How many ships are in the dataset?,50
+75,attribute,6,0,How many ships are in the dataset?,75
+100,attribute,6,0,How many ships are in the dataset?,100
+150,attribute,6,0,How many ships are in the dataset?,150
+5,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",211870240
+10,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",265177000
+20,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",354540000
+50,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",354537000
+75,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",636021994
+100,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",257739000
+150,attribute,7,0,"Assuming that the rectangle volume of a ship is a good approximation of its cargo capacity, which ship has the largest cargo capacity?",220497000
+5,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+10,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+20,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+50,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+75,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+100,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+150,individual-trajectory,8,211190000,What is the maximum recorded speed of ship [MMSI=219028133-219018172-211870240-211190000]?,15.7
+5,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+10,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+20,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+50,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+75,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+100,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+150,individual-trajectory,9,211190000,Ship [MMSI=211190000] is a ferry doing a round trip between two ports. It does it multiple times a day. What is the average single trip duration in minutes,1:06:15
+5,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+10,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+20,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+50,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+75,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+100,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+150,individual-trajectory,10,211190000,What is the total number of kilometers traveled by ship [MMSI=219028133-219018172-211870240-211190000] for the day ?,776.1253656
+5,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+10,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+20,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+50,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+75,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+100,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+150,individual-trajectory,11,211190000,What is the average speed of ship [MMSI=211190000] in kilometers per hour based on all moments where the ship was navigating (SOG > 0.1) ?,23.14208547
+5,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+10,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+20,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+50,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+75,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+100,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+150,individual-trajectory,12,219018172,What is the last known location of ship [MMSI=219018172]?,"[(56.152397, 10.254665)]"
+5,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+10,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+20,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+50,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+75,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+100,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+150,individual-trajectory,13,211190000,What is the average waiting time for ship [MMSI=211190000] at anchorage?,15
+5,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+10,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+20,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+50,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+75,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+100,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+150,individual-trajectory,14,211190000,"For ferry [MMSI=211190000], how many round trips did it complete ?",10.5
+5,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,
+10,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,211757540
+20,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,211757540
+50,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,"211757540, 219000429, 219000431"
+75,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,"211188000, 305848000, 246452000, 211757540, 354711000, 211286440, 219000429, 219000431, 314750000, 257739000, 636023294"
+100,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,"211188000, 305848000, 246452000, 211757540, 354711000, 211286440, 219000429, 219000431, 314750000, 257739000, 636023294"
+150,ship-interaction,15,211190000,Which other ships did ship [MMSI=219028133-219018172-211870240-211190000] get close to (< 500m) during its trip?,"211188000, 305848000, 246452000, 211757540, 354711000, 211286440, 219000429, 219000431, 314750000, 257739000, 636023298"
+5,ship-interaction,18,0,Identify clusters of ships traveling together,
+10,ship-interaction,18,0,Identify clusters of ships traveling together,
+20,ship-interaction,18,0,Identify clusters of ships traveling together,
+50,ship-interaction,18,0,Identify clusters of ships traveling together,
+75,ship-interaction,18,0,Identify clusters of ships traveling together,
+100,ship-interaction,18,0,Identify clusters of ships traveling together,
+150,ship-interaction,18,0,Identify clusters of ships traveling together,
+5,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[211190000, 219018172, 219028133]"
+10,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 211190000, 219018172, 219028133]"
+20,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 210399000, 306132000, 211190000, 219018172, 219028133]"
+50,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 210399000, 306132000, 219230000, 265041000, 210056000, 212499000, 218795000, 265410000, 265031000, 265463000, 219000429, 219000431, 219622000, 211190000, 219018172, 219028133]"
+75,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 210399000, 306132000, 219230000, 265041000, 210056000, 212499000, 218795000, 265410000, 265031000, 265463000, 219000429, 219000431, 219622000, 211190000, 211188000, 211286440, 219027995, 211343680, 219018172, 219028133]"
+100,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 210399000, 306132000, 219230000, 265041000, 210056000, 212499000, 218795000, 265410000, 265031000, 265463000, 219000429, 219000431, 219622000, 211190000, 211188000, 211286440, 219027995, 211343680, 255806081, 257562000, 477321000, 257032850, 219018172, 219028133]"
+150,ship-interaction,19,0,Which ships are ferry (always doing th same roundtrip) based on their navigation pattern?,"[265859000, 210399000, 306132000, 219230000, 265041000, 210056000, 212499000, 218795000, 265410000, 265031000, 265463000, 219000429, 219000431, 219622000, 211190000, 211188000, 211286440, 219027995, 211343680, 255806081, 257562000, 477321000, 257032850, 266220000, 255946000, 352001906, 219018172, 219028133]"
+5,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+10,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+20,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+50,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+75,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+100,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,14.91
+150,fusion,20,211190000,How long did ship [MMSI=219028133-219018172-211870240-211190000] stayed at sea during the day (was not close or in a port) ?,0:20:55
+5,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,219028133
+10,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,219028133
+20,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,219028133
+50,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,265042000
+75,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,265866000
+100,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,257739000
+150,fusion,21,0,Which ship consumed most fuel between 15:00 and 16:00 on 2024-11-20?,257739000
+5,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+10,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+20,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+50,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+75,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+100,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+150,fusion,22,0,What is the average trip length from port Skagen to port Aarhus?,Minimum 176.98601354893356
+5,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+10,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+20,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+50,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+75,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+100,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+150,fusion,23,211190000,"Hypothetically, could ship [MMSI=219028133-219018172-211870240-211190000] navigate  through the Suez canal?",TRUE
+5,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",219028133
+10,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",219028133
+20,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",219028133
+50,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",219028133
+75,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",219028133
+100,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",257739000
+150,fusion,24,0,"Based on the travel distance of each ship for the day, and leveraging their respective fuel consumption, which ship polluted the most?",257739000
+5,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,211190000
+10,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,248693000
+20,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,311043800
+50,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,265041000
+75,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,265041000
+100,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,265041000
+150,fusion,25,0,Identify the ship with the best fuel efficiency (CO2 per nautical mile).,265041000
+5,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+10,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+20,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+50,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+75,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+100,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+150,fusion,26,211190000,What is the CO2 emission for one trip from Aarhus to Skagen for ship [MMSI=211190000]?,24173.74858
+5,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Ronne
+10,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Puttgarden
+20,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Puttgarden
+50,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Ystad
+75,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Puttgarden
+100,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Puttgarden
+150,fusion,27,0,Which is the most visited port for the day in terms of number of different boats that visited it?,Puttgarden
+5,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+10,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+20,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+50,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+75,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+100,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+150,ship-interaction,28,0,Where any ships in the dataset at risk of collision?,[]
+5,fusion,29,0,Which ship did not go to sea today?,[219173000]
+10,fusion,29,0,Which ship did not go to sea today?,"[219173000, 211757540]"
+20,fusion,29,0,Which ship did not go to sea today?,"[219173000, 306132000, 211757540]"
+50,fusion,29,0,Which ship did not go to sea today?,"[306132000, 219612000, 211757540, 219173000, 230357000]"
+75,fusion,29,0,Which ship did not go to sea today?,"[306132000, 219612000, 211757540, 219173000, 230357000, 212949000]"
+100,fusion,29,0,Which ship did not go to sea today?,"[306132000, 219612000, 211757540, 230357000, 212949000, 219173000, 477321000]"
+150,fusion,29,0,Which ship did not go to sea today?,"[305024000, 306132000, 305256000, 219612000, 211757540, 230357000, 212949000, 219173000, 477321000, 247282600, 304978000, 236407000]"
